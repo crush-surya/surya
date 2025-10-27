@@ -1,0 +1,6 @@
+print("my name is surya")
+print("my ade  :22")
+print("my mother name : rani")
+print("my father name : ramar")
+print("address :sambakulam 1st moondrumavadi k.pudur madurai-7")
+print("my qualification ;b.e.automobile engineering")
